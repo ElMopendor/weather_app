@@ -53,4 +53,5 @@ Flutter Version:  3.19.3
 * for the Weather Api remember activate Onecall API in this [link](https://home.openweathermap.org/subscriptions) </br>
 ![one call api](https://drive.google.com/uc?export=view&id=1jFLtTJYpGm4pNwgiOK5lLfQ45o1BWs4y)
 
-
+_Note_: This app is working only in android, but can be easily configured for IOS too, thats because I don't have an available macbook right now.
+ 
