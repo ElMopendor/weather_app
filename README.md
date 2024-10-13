@@ -50,4 +50,7 @@ Flutter Version:  3.19.3
 
 * you can find all the resources over here in this [link](https://drive.google.com/drive/folders/1LBZJi01JUqqRnupkJR-nILfU1tK6ZfUC?usp=sharing)</br>
 
+* for the Weather Api remember activate Onecall API in this [link](https://home.openweathermap.org/subscriptions) </br>
+![one call api](https://drive.google.com/uc?export=view&id=1jFLtTJYpGm4pNwgiOK5lLfQ45o1BWs4y)
+
 
